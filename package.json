@@ -1,6 +1,6 @@
 {
-  "name": "vscode-crud-generator",
-  "displayName": "CRUD Generator",
+  "name": "basic-crud-generator",
+  "displayName": "basic crud generator",
   "description": "Gera CRUD completo (GET, POST, PUT, DELETE) para Express, Spring, Spark, Slim, Laravel e ASP.NET",
   "version": "0.0.3",
   "publisher": "SidAlbertaodasmassa",
