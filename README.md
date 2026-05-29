@@ -9,6 +9,8 @@ Este gerador cria um **esqueleto básico** para agilizar o desenvolvimento.
 - Implementar **autenticação e autorização**
 - Configurar **tratamento de erros adequado**
 
+---
+
 O código gerado é um ponto de partida, não um produto final.
 
 Gera CRUD completo (GET, POST, PUT, DELETE) para múltiplos frameworks.
